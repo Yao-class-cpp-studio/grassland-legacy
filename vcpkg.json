@@ -1,0 +1,22 @@
+{
+  "name": "grassland",
+  "version-string": "0.1.0",
+  "description": "Grassland",
+  "dependencies": [
+    "glfw3",
+    "freetype",
+    "glm",
+    "stb",
+    "spdlog",
+    "imgui",
+    "abseil",
+    "gtest",
+    "vulkan-memory-allocator",
+    "glslang",
+    {
+      "name": "d3dx12",
+      "platform": "windows"
+    },
+    "eigen3"
+  ]
+}

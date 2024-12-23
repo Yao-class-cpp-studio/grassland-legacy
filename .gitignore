@@ -1,0 +1,7 @@
+build
+cmake-build-*
+.idea
+.vscode
+.vs
+vcpkg_installed
+imgui.ini
